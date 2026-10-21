@@ -40,4 +40,4 @@ python python-anayst.py
 
 ## Author
 
-**Sriram S (Pearl)** · [GitHub](https://github.com/Deadly-ms) · [LinkedIn](https://linkedin.com/in/sriram-s-12b80626b)
+**Sriram** · [LinkedIn](https://linkedin.com/in/sriram-s-12b80626b)
